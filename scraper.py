@@ -19,7 +19,7 @@ import aiohttp
 from bs4 import BeautifulSoup
 from playwright.async_api import Page, async_playwright, Route
 
-API_KEY = "sk-hc-v1-d6d61be66f1a4155b9cf45874602df5ad66355c8381d4fb0a4f025a45cd865ce"
+API_KEY = "sk-hc-v1-EDIT_THIS_PLEASE"
 AI_URL = "https://ai.hackclub.com/proxy/v1/chat/completions"
 
 MAX_PAGES = 30
