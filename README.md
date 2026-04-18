@@ -2,6 +2,8 @@
 
 PLEASE NOTE: Some schools omit emails from their staff listings and use contact forms instead. In these cases, this scraper will NOT work.
 
+Additionally, my Hack Club AI API Key is hardcoded, it's set to work for this project only and is not a paid key, so I'm not worried about key sharing, and should be perfectly fine for up to ~2000 requests, but if you want to use this project personally or at a large scale, please create and plug in a key at https://ai.hackclub.com/ or reconfigure the code to use Claude.
+
 sss is a highly concurrent, intelligent web scraper designed to extract STEM, Math, and Science staff information from arbitrary school websites.
 
 ## Features
