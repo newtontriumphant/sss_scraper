@@ -39,7 +39,7 @@ STEM_KEYWORDS = [
     "geology", "astronomy", "botany", "zoology", "stem", "steam",
     "engineering", "computer science", "robotics", "technology",
     "coding", "programming", "information technology", "computer",
-    "tech", "cyber", "cybersecurity", "data science", "maker", "aviation"
+    "tech", "cyber", "cybersecurity", "data science", "maker", "digital", "aviation"
 ]
 
 NEGATIVE_ROLES = [
